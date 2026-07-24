@@ -1,18 +1,14 @@
-# DSA Lab in C
+# 📘 DSA Lab in C
 
-This repository contains my Data Structures and Algorithms (DSA) laboratory experiments implemented in C.
+This repository contains my **Data Structures and Algorithms** laboratory experiments implemented in **C**.
 
-## Experiments
+## 👨‍🎓 Student Details
+- **Name:** Arunvignesh R S
+- **Roll No:** 25BAD012
 
-1. List ADT using Structure
-2. Linear Search
-3. Binary Search
+## 📂 Contents
+- Lab Records
+- C Programs
+- Sample Outputs
 
-Each experiment includes:
-- Aim
-- Algorithm/Pseudocode
-- C Program
-- Sample Output
-- Result
-
-Language: C
+⭐ This repository showcases my DSA lab work and learning in C programming.
